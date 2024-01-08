@@ -1,0 +1,1579 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DwPz8G9Z_0kwbGMfnzQrxp9qCAg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "tqwH930r3WlENQyoIqeiKw51VPY",
+            "id": "rwGpzW8xz-U",
+            "snippet": {
+                "publishedAt": "2023-12-19T19:00:10Z",
+                "channelId": "UC2YnEq5Fc5_zEO6bo0oNzCQ",
+                "title": "Melanie Martinez - TUNNEL VISION (Official Video)",
+                "description": "'PORTALS' AVAILABLE NOW: https://MelanieMartinez.lnk.to/PORTALSID \nShop vinyl, merch, and more: https://store.melaniemartinezmusic.com/\n\nDirector: Melanie Martinez\nProduction Company: Dojohouse\nEP / Producer: Danny Pollack\nEP / Producer: Abi Perl\nProduction Manager: Chris San Andreas\nProduction Coordinator: Emily Shulmanovich\n1st Assistant Director: Kellie Jotackett\n2nd Assistant Director: Mallory Chevalier\n2nd 2nd AD: RJ Collins\nAD PA: Travis Jones\n\nDirector of Photography: Nyk Allen\n1st Assistant Camera: Erick Aguilar\n2nd Assistant Camera: Bryam Aguilar\nSteadicam Op: Greg Arch\n\nCLT: Mathias Peralta\nBBE: Jacob Kaster\nSLT: Cameron Smith\nSLT: Becky Lloyd\nSLT: Raul Cervantes\nSLT: Joe Escandell\nLighting Programmer: Patrick Mattes\n\nKey Grip: Alex Picasso\nBBG/Driver: Paul Reynoso\nGrip: Andrew Williams \nGrip: Luke Barger \nGrip: Domonic Picasso\n\nVTR: Robert Buckholz\nSound Mixer/Playback: Taylor Haycraft\nMedia Manager: Alexander Haessner\nTechno Crane Op: Corey Kiefer\nTechno Crane Op Assist: Brandon Thorne\nTechno Crane Op Assist: Christian Hurley\nRemote Head Op: Karson Holbrook\n\nProduction Designer: Arae Webner\nArt Director: Luis Diaz\nArt Coordinator: Michelle Hanzelova\nSet Designer (Assist): Drew Bender\nProp Master: Hannah Olsen\nProp Assist: Samara Mitchell\nProp Assist: Emily Joe\nLeadman: Darren Cantone\nSet Decorator: Tyler Vogel\nSet Dresser: Miguel Gregory\nSet Dresser: Mikey Cuellar\nSet Dresser: Giles Augustine\nSet Dresser: Joel Darden\nSet Dresser: Hugo Contrares\nHyphenate: Jamal Hollis\nShopper: Lakyn Moore\nDriver Van: Savannah Ryan\nGreens Lead - Stage Prep: Carl Nunez\nGreens: Eric Neary\nGreens: Robert A Bissonnette\nGreens: Chris Ridino\nConstruction Coordinator: Bill Horbury\nSpecial Effects Lead: Arthur Hayes\nSpecial Effects Foreman: Simon White\nSpecial Effects Technitian: Carlos Perez\n\nKey Hair: William Scott Blair\nHair Assist: Matthew Sosnowski\nKey Makeup: Laurel Charleston\nKey SFX MUA: Malina Stearns\nSFX MUA Assist: Sasha Bennett\nCostume Designer: Melanie Martinez\nAssociate Costume Designer: Marco Morante \nCostime Fabrication/Manipulation: Marco Marco\nOn Set Stylist: Dave Gangel\nAssistant Costume Designer: Blake Danford\nExtras Stylist: Rio Warner \nAssistant Costume Designer: Sasha Broer \nDresser: Samara Sin\nDresser: Ben Tancredi\n\nStunt Coordinator: Charles Gresham\nLead Rigger: Jared De Witt\nStunt Rigger: Marc Scizak\nStunt Rigger: Seth Duhame\nStunt Double: Tiana Webberley\n\nKey PA: Alli Acuff\nSet PA: Brandon Murphy\nSet PA: Dion O'Joe\nSet PA: Daved Olivencia\nTruck PA: Carlos Sanchez\n\nChoreographer: Nina McNeely\nChoreographer Assist: Jamie Donovan\nChoreographer Assist 2: Marlon Pelayo \n\nDancer 1: Jas Lin \nDancer 2: Brooke Shepherd \nDancer 3: Brandon Mathis \nDancer 4: Andrea Bess \nDancer 5: Angel Mammoliti \nDancer 6: Jose Baez \n\nCasting Director: Sarah May Levy\nFan Girl: Oceana Heartsong \n \nVFX: Ingenuity Studios\nVFX Creative Director: Grant Miller\nVFX Executive Producer: Keiley Culbertson\nVFX: Andrew Woolley\nVFX Supervisor: Brad Clapper\nVFX Post Producer: Tara Acquesta \nEditor: John Paul Horstmann\nColorist: Kaitlyn Batistelli @ Ethos \nSound Designer: CJ Baran\n\nSubscribe for more official content from Melanie Martinez:\r\nhttps://melanie.lnk.to/MMsubscribe\r\n\r\nFollow Melanie Martinez\r\nhttps://facebook.com/melaniemartinezmusic\r\nhttps://twitter.com/melanielbbh\r\nhttps://instagram.com/littlebodybigheart\r\nhttps://soundcloud.com/melaniemartinezmusic\r\nhttp://melaniemartinezmusic.com\r\n\r\nThe official YouTube channel of Atlantic Records artist Melanie Martinez. Subscribe for the latest music videos, performances, and more.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rwGpzW8xz-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rwGpzW8xz-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rwGpzW8xz-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rwGpzW8xz-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rwGpzW8xz-U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "melanie martinez",
+                "tags": [
+                    "melanie martinez",
+                    "melanie",
+                    "martinez",
+                    "atlantic records",
+                    "atlantic",
+                    "crybaby",
+                    "cry baby",
+                    "dollhouse",
+                    "doll house",
+                    "pity party",
+                    "sippy cup"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Melanie Martinez - TUNNEL VISION (Official Video)",
+                    "description": "'PORTALS' AVAILABLE NOW: https://MelanieMartinez.lnk.to/PORTALSID \nShop vinyl, merch, and more: https://store.melaniemartinezmusic.com/\n\nDirector: Melanie Martinez\nProduction Company: Dojohouse\nEP / Producer: Danny Pollack\nEP / Producer: Abi Perl\nProduction Manager: Chris San Andreas\nProduction Coordinator: Emily Shulmanovich\n1st Assistant Director: Kellie Jotackett\n2nd Assistant Director: Mallory Chevalier\n2nd 2nd AD: RJ Collins\nAD PA: Travis Jones\n\nDirector of Photography: Nyk Allen\n1st Assistant Camera: Erick Aguilar\n2nd Assistant Camera: Bryam Aguilar\nSteadicam Op: Greg Arch\n\nCLT: Mathias Peralta\nBBE: Jacob Kaster\nSLT: Cameron Smith\nSLT: Becky Lloyd\nSLT: Raul Cervantes\nSLT: Joe Escandell\nLighting Programmer: Patrick Mattes\n\nKey Grip: Alex Picasso\nBBG/Driver: Paul Reynoso\nGrip: Andrew Williams \nGrip: Luke Barger \nGrip: Domonic Picasso\n\nVTR: Robert Buckholz\nSound Mixer/Playback: Taylor Haycraft\nMedia Manager: Alexander Haessner\nTechno Crane Op: Corey Kiefer\nTechno Crane Op Assist: Brandon Thorne\nTechno Crane Op Assist: Christian Hurley\nRemote Head Op: Karson Holbrook\n\nProduction Designer: Arae Webner\nArt Director: Luis Diaz\nArt Coordinator: Michelle Hanzelova\nSet Designer (Assist): Drew Bender\nProp Master: Hannah Olsen\nProp Assist: Samara Mitchell\nProp Assist: Emily Joe\nLeadman: Darren Cantone\nSet Decorator: Tyler Vogel\nSet Dresser: Miguel Gregory\nSet Dresser: Mikey Cuellar\nSet Dresser: Giles Augustine\nSet Dresser: Joel Darden\nSet Dresser: Hugo Contrares\nHyphenate: Jamal Hollis\nShopper: Lakyn Moore\nDriver Van: Savannah Ryan\nGreens Lead - Stage Prep: Carl Nunez\nGreens: Eric Neary\nGreens: Robert A Bissonnette\nGreens: Chris Ridino\nConstruction Coordinator: Bill Horbury\nSpecial Effects Lead: Arthur Hayes\nSpecial Effects Foreman: Simon White\nSpecial Effects Technitian: Carlos Perez\n\nKey Hair: William Scott Blair\nHair Assist: Matthew Sosnowski\nKey Makeup: Laurel Charleston\nKey SFX MUA: Malina Stearns\nSFX MUA Assist: Sasha Bennett\nCostume Designer: Melanie Martinez\nAssociate Costume Designer: Marco Morante \nCostime Fabrication/Manipulation: Marco Marco\nOn Set Stylist: Dave Gangel\nAssistant Costume Designer: Blake Danford\nExtras Stylist: Rio Warner \nAssistant Costume Designer: Sasha Broer \nDresser: Samara Sin\nDresser: Ben Tancredi\n\nStunt Coordinator: Charles Gresham\nLead Rigger: Jared De Witt\nStunt Rigger: Marc Scizak\nStunt Rigger: Seth Duhame\nStunt Double: Tiana Webberley\n\nKey PA: Alli Acuff\nSet PA: Brandon Murphy\nSet PA: Dion O'Joe\nSet PA: Daved Olivencia\nTruck PA: Carlos Sanchez\n\nChoreographer: Nina McNeely\nChoreographer Assist: Jamie Donovan\nChoreographer Assist 2: Marlon Pelayo \n\nDancer 1: Jas Lin \nDancer 2: Brooke Shepherd \nDancer 3: Brandon Mathis \nDancer 4: Andrea Bess \nDancer 5: Angel Mammoliti \nDancer 6: Jose Baez \n\nCasting Director: Sarah May Levy\nFan Girl: Oceana Heartsong \n \nVFX: Ingenuity Studios\nVFX Creative Director: Grant Miller\nVFX Executive Producer: Keiley Culbertson\nVFX: Andrew Woolley\nVFX Supervisor: Brad Clapper\nVFX Post Producer: Tara Acquesta \nEditor: John Paul Horstmann\nColorist: Kaitlyn Batistelli @ Ethos \nSound Designer: CJ Baran\n\nSubscribe for more official content from Melanie Martinez:\r\nhttps://melanie.lnk.to/MMsubscribe\r\n\r\nFollow Melanie Martinez\r\nhttps://facebook.com/melaniemartinezmusic\r\nhttps://twitter.com/melanielbbh\r\nhttps://instagram.com/littlebodybigheart\r\nhttps://soundcloud.com/melaniemartinezmusic\r\nhttp://melaniemartinezmusic.com\r\n\r\nThe official YouTube channel of Atlantic Records artist Melanie Martinez. Subscribe for the latest music videos, performances, and more."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kzx9bMOE2ktC0PyGgq3jKM9R2OI",
+            "id": "QdGqDumdEc0",
+            "snippet": {
+                "publishedAt": "2023-12-19T02:49:08Z",
+                "channelId": "UCzoUWqjCbcfWFdOMvoep8FA",
+                "title": "REGRESAMOS POR ESTA RAZÓN 😱 Juan de Dios Pantoja",
+                "description": "Hola familia PANTOJITA 💎 gracias por tenerme de nuevo en sus pantallas 😃 estoy muy contento y agradecido por todo el apoyo que siempre me dan, GRACIAS POR SER PARTE DE ESTA FAMILIA QUE TANTO AMO ❤️🙏🏻\r\n\r\n\r\n▪️SIGUEME EN MIS REDES SOCIALES QUIERO CONECTARME MAS CONTIGO:\r\n\r\n• INSTAGRAM: @JuandediosPantoja -  https://bit.ly/2vWtdSj\r\n\r\n • TWITTER:  @Juandedios_P - https://bit.ly/2OY3UYN\r\n\r\n• PAGINA DE FACE: Juan De Dios Pantoja Corona - https://bit.ly/2KHVW2E \r\n\r\n\r\n📩 : marcasjddp@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QdGqDumdEc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QdGqDumdEc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QdGqDumdEc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QdGqDumdEc0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QdGqDumdEc0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Juan De Dios Pantoja",
+                "tags": [
+                    "Team",
+                    "juki",
+                    "Juan",
+                    "De",
+                    "Dios",
+                    "Pantoja",
+                    "jd",
+                    "youtube",
+                    "retos",
+                    "reto",
+                    "tag",
+                    "tags",
+                    "Challenge",
+                    "nuevo",
+                    "video",
+                    "risa",
+                    "comedia",
+                    "diversión",
+                    "extremo",
+                    "música",
+                    "roast"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "REGRESAMOS POR ESTA RAZÓN 😱 Juan de Dios Pantoja",
+                    "description": "Hola familia PANTOJITA 💎 gracias por tenerme de nuevo en sus pantallas 😃 estoy muy contento y agradecido por todo el apoyo que siempre me dan, GRACIAS POR SER PARTE DE ESTA FAMILIA QUE TANTO AMO ❤️🙏🏻\r\n\r\n\r\n▪️SIGUEME EN MIS REDES SOCIALES QUIERO CONECTARME MAS CONTIGO:\r\n\r\n• INSTAGRAM: @JuandediosPantoja -  https://bit.ly/2vWtdSj\r\n\r\n • TWITTER:  @Juandedios_P - https://bit.ly/2OY3UYN\r\n\r\n• PAGINA DE FACE: Juan De Dios Pantoja Corona - https://bit.ly/2KHVW2E \r\n\r\n\r\n📩 : marcasjddp@gmail.com"
+                },
+                "defaultAudioLanguage": "es-MX"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TlH3SJBdbkSdykzw4ibo2gOqfDQ",
+            "id": "7fOImwJvjIo",
+            "snippet": {
+                "publishedAt": "2023-12-19T04:17:51Z",
+                "channelId": "UCnzVEjrl9uWN_3Go-4EwP9g",
+                "title": "Peyton & Eli Manning react to the Seahawks Game Winning Touchdown on the ManningCast",
+                "description": "Peyton and Eli couldn't believe Drew Lock's game winning touchdown pass to Jaxon Smith-Njigba to beat the Eagles",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7fOImwJvjIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7fOImwJvjIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7fOImwJvjIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7fOImwJvjIo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Omaha Productions",
+                "tags": [
+                    "Peyton Manning",
+                    "Eli Manning",
+                    "Omaha Productions",
+                    "ManningCast"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Peyton & Eli Manning react to the Seahawks Game Winning Touchdown on the ManningCast",
+                    "description": "Peyton and Eli couldn't believe Drew Lock's game winning touchdown pass to Jaxon Smith-Njigba to beat the Eagles"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VbzCTuXsXYbNmKnPI5SOGejbZOA",
+            "id": "PzdbOj84gTo",
+            "snippet": {
+                "publishedAt": "2023-12-18T22:32:33Z",
+                "channelId": "UCQZfFRohQ7UX-0CdXl-6pwQ",
+                "title": "MI ULTIMO VIDEO / Kimberly Loaiza",
+                "description": "LINDURAS GRACIAS POR VER ESTE VIDEO ME ENCANTARIA QUE LE DIERAN LIKE Y LO COMPARTIERAN FUERA DE GRAN AYUDA \r\n\r\n✨ Sígueme en mis redes sociales ✨\r\n\r\nInstagram: https://www.instagram.com/kimberly.loaiza/\r\n\r\nPagina de Facebook: https://www.facebook.com/kimberlyloaizaa/?ref=br_tf\r\n\r\n\r\nTwitter: https://mobile.twitter.com/kimberlyloaiza_\r\n\r\nContacto: marcaskim@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PzdbOj84gTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PzdbOj84gTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PzdbOj84gTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PzdbOj84gTo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PzdbOj84gTo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kimberly Loaiza",
+                "tags": [
+                    "team",
+                    "juki",
+                    "jukilop",
+                    "teamjukilop",
+                    "juan",
+                    "de",
+                    "dios",
+                    "pantoja",
+                    "reto",
+                    "challenge",
+                    "diversión",
+                    "entretenimiento",
+                    "vlog",
+                    "blogs",
+                    "nuevo",
+                    "video",
+                    "vlogs",
+                    "blog",
+                    "lindura",
+                    "linduras",
+                    "kimberly",
+                    "loaiza",
+                    "risas",
+                    "musica"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "MI ULTIMO VIDEO / Kimberly Loaiza",
+                    "description": "LINDURAS GRACIAS POR VER ESTE VIDEO ME ENCANTARIA QUE LE DIERAN LIKE Y LO COMPARTIERAN FUERA DE GRAN AYUDA \r\n\r\n✨ Sígueme en mis redes sociales ✨\r\n\r\nInstagram: https://www.instagram.com/kimberly.loaiza/\r\n\r\nPagina de Facebook: https://www.facebook.com/kimberlyloaizaa/?ref=br_tf\r\n\r\n\r\nTwitter: https://mobile.twitter.com/kimberlyloaiza_\r\n\r\nContacto: marcaskim@gmail.com"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3lifjdHlsFAyn42IBQ_KFjYS_tY",
+            "id": "KzwUubGTCWU",
+            "snippet": {
+                "publishedAt": "2023-12-18T21:24:29Z",
+                "channelId": "UC7_YxT-KID8kRbqZo7MyscQ",
+                "title": "Five Nights at Freddy's: Help Wanted 2",
+                "description": "Five Nights at Freddy's has returned in the world of VR! How will the lore continue in Help Wanted 2?\nMORE FNAF ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDL09lO0xjKEix84OY27xet\n\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ► https://www.youtube.com/LixianTV\n\nGet the GAME ► https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/\n\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nSUPPORT THE CHANNEL ► https://www.youtube.com/markiplier/join\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KzwUubGTCWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KzwUubGTCWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KzwUubGTCWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KzwUubGTCWU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KzwUubGTCWU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Markiplier",
+                "tags": [
+                    "five nights at freddys help wanted 2",
+                    "fnaf",
+                    "markiplier",
+                    "help wanted 2",
+                    "help wanted vr",
+                    "markiplier five nights at freddys",
+                    "five nights at freddy's",
+                    "scary games",
+                    "horror games",
+                    "indie horror",
+                    "fnaf fan game",
+                    "jumpscares",
+                    "scary moments",
+                    "scare reactions",
+                    "markiplier VR",
+                    "virtual reality"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Five Nights at Freddy's: Help Wanted 2",
+                    "description": "Five Nights at Freddy's has returned in the world of VR! How will the lore continue in Help Wanted 2?\nMORE FNAF ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDL09lO0xjKEix84OY27xet\n\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ► https://www.youtube.com/LixianTV\n\nGet the GAME ► https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/\n\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nSUPPORT THE CHANNEL ► https://www.youtube.com/markiplier/join\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OLS7UH5yYvHGgNLW7Oz2cW2CEWE",
+            "id": "PjbkafIMdl8",
+            "snippet": {
+                "publishedAt": "2023-12-18T16:00:12Z",
+                "channelId": "UCY3L5on78KPyltbhEyiLDmA",
+                "title": "George Santos Answers Hard-Hitting Questions | Ziwe Interview",
+                "description": "Ziwe sits down with George Santos for a groundbreaking interview about his time in Congress, Nicki Minaj, Drag Race, white collar crime, why Gen Z loves Trump, his forthcoming book (??), and if he ever plans to run for office again. Ziwe News Network starts now. \n\nsubscribe:\nwww.youtube.com/@ziwe\n\nfollow:\nhttps://www.instagram.com/ziwef\nhttps://www.tiktok.com/@ziwe\nhttps://twitter.com/ziwe\n\n\n\n\n\n\n\n\n#ziwesantos\n#comedy \n#comedyspecial \n#ziwe\n#georgesantos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PjbkafIMdl8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PjbkafIMdl8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PjbkafIMdl8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PjbkafIMdl8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PjbkafIMdl8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ziwe",
+                "tags": [
+                    "Ziwe",
+                    "georgesantos",
+                    "ziwesantos",
+                    "comedy",
+                    "comedy special"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "George Santos Answers Hard-Hitting Questions | Ziwe Interview",
+                    "description": "Ziwe sits down with George Santos for a groundbreaking interview about his time in Congress, Nicki Minaj, Drag Race, white collar crime, why Gen Z loves Trump, his forthcoming book (??), and if he ever plans to run for office again. Ziwe News Network starts now. \n\nsubscribe:\nwww.youtube.com/@ziwe\n\nfollow:\nhttps://www.instagram.com/ziwef\nhttps://www.tiktok.com/@ziwe\nhttps://twitter.com/ziwe\n\n\n\n\n\n\n\n\n#ziwesantos\n#comedy \n#comedyspecial \n#ziwe\n#georgesantos"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IR6QZv5J27nxkKdk0vqJq3GJhZ4",
+            "id": "BF_J3-DmiS0",
+            "snippet": {
+                "publishedAt": "2023-12-19T14:00:08Z",
+                "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
+                "title": "Love Lies Bleeding | Official Trailer HD | A24",
+                "description": "SUBSCRIBE: http://bit.ly/A24subscribe\r\n\r\nFrom writer/director Rose Glass and starring Kristen Stewart, Katy O'Brian, Jena Malone, Anna Baryshnikov, with Dave Franco, and Ed Harris. LOVE LIES BLEEDING – In theaters March 8.\r\n\r\nRELEASE DATE: March 8\r\nDIRECTOR: Rose Glass\r\nCAST: Kristen Stewart, Katy O'Brian, Jena Malone, Anna Baryshnikov, with Dave Franco, and Ed Harris\r\n \r\nLike LOVE LIES BLEEDING on FACEBOOK: https://bit.ly/LoveLiesBleedingFB\nFollow LOVE LIES BLEEDING on Instagram: https://bit.ly/LoveLiesBleedingIG\r\nFollow LOVE LIES BLEEDING on Twitter: https://bit.ly/LoveLiesBleedingTW\r\n\r\n------\r\n\r\nABOUT A24:\r\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\r\n\r\nComing Soon: The Iron Claw, Civil War\r\n\r\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\r\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\r\nLike A24 on FACEBOOK: http://bit.ly/FBA24\r\nFollow A24 on TWITTER: http://bit.ly/TweetA24\r\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BF_J3-DmiS0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BF_J3-DmiS0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BF_J3-DmiS0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BF_J3-DmiS0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BF_J3-DmiS0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "A24",
+                "tags": [
+                    "a24",
+                    "a24 films",
+                    "a24 trailers",
+                    "independent films",
+                    "trailer",
+                    "HD",
+                    "official",
+                    "movie",
+                    "film",
+                    "a24 movies",
+                    "oscar winner",
+                    "academy award winner"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Love Lies Bleeding | Official Trailer HD | A24",
+                    "description": "SUBSCRIBE: http://bit.ly/A24subscribe\r\n\r\nFrom writer/director Rose Glass and starring Kristen Stewart, Katy O'Brian, Jena Malone, Anna Baryshnikov, with Dave Franco, and Ed Harris. LOVE LIES BLEEDING – In theaters March 8.\r\n\r\nRELEASE DATE: March 8\r\nDIRECTOR: Rose Glass\r\nCAST: Kristen Stewart, Katy O'Brian, Jena Malone, Anna Baryshnikov, with Dave Franco, and Ed Harris\r\n \r\nLike LOVE LIES BLEEDING on FACEBOOK: https://bit.ly/LoveLiesBleedingFB\nFollow LOVE LIES BLEEDING on Instagram: https://bit.ly/LoveLiesBleedingIG\r\nFollow LOVE LIES BLEEDING on Twitter: https://bit.ly/LoveLiesBleedingTW\r\n\r\n------\r\n\r\nABOUT A24:\r\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\r\n\r\nComing Soon: The Iron Claw, Civil War\r\n\r\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\r\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\r\nLike A24 on FACEBOOK: http://bit.ly/FBA24\r\nFollow A24 on TWITTER: http://bit.ly/TweetA24\r\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HEmcPTX70GdAY1aYaxNjv52GfG0",
+            "id": "PwjoqnABLB8",
+            "snippet": {
+                "publishedAt": "2023-12-18T18:00:09Z",
+                "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+                "title": "Galactus VS Unicron (Marvel Comics VS Transformers) | DEATH BATTLE!",
+                "description": "Who wins this epic animation of cosmic giants!\nPreorder the DEATH BATTLE GAME now! https://store.roosterteeth.com/collections/death-battle/products/death-battle-the-game?variant=30345005236272\nThis episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"All-Consuming\" - Battle Music\nSubscribe to Brandon Yates and Therewolf Media on YT: @BrandonYates @TherewolfMedia \n► Stream on Spotify: https://open.spotify.com/track/3XNbSapBYGea5VDYjOGNqZ?si=cd808cea3f7a4c98\n\nMap of the Marvel Macroverse by Nova20X\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PwjoqnABLB8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PwjoqnABLB8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PwjoqnABLB8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PwjoqnABLB8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PwjoqnABLB8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DEATH BATTLE!",
+                "tags": [
+                    "DEATH BATTLE",
+                    "Rooster Teeth",
+                    "DBX",
+                    "DEATH BATTLE Cast",
+                    "screwattack",
+                    "deathbattle",
+                    "roosterteeth",
+                    "death battle",
+                    "rooster teeth",
+                    "death battle cast",
+                    "deathbattlecast",
+                    "ben singer",
+                    "chad james",
+                    "animation",
+                    "animated fight",
+                    "animated battle",
+                    "who would win",
+                    "who wins",
+                    "marvel",
+                    "mahvel",
+                    "fantastic four",
+                    "fantasticfour",
+                    "transformers",
+                    "transformer",
+                    "unicorn",
+                    "galactia",
+                    "galactis",
+                    "optimus prime",
+                    "peter cullen",
+                    "micheal bay",
+                    "beast wars",
+                    "cybertron",
+                    "MCU",
+                    "jessica alba",
+                    "chris evans",
+                    "krasinski",
+                    "multiverse",
+                    "megatron",
+                    "power cosmic"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Galactus VS Unicron (Marvel Comics VS Transformers) | DEATH BATTLE!",
+                    "description": "Who wins this epic animation of cosmic giants!\nPreorder the DEATH BATTLE GAME now! https://store.roosterteeth.com/collections/death-battle/products/death-battle-the-game?variant=30345005236272\nThis episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"All-Consuming\" - Battle Music\nSubscribe to Brandon Yates and Therewolf Media on YT: @BrandonYates @TherewolfMedia \n► Stream on Spotify: https://open.spotify.com/track/3XNbSapBYGea5VDYjOGNqZ?si=cd808cea3f7a4c98\n\nMap of the Marvel Macroverse by Nova20X\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hI8oUTCHqIg4lM821T1oRyBJRDM",
+            "id": "pHDh_PWMTaU",
+            "snippet": {
+                "publishedAt": "2023-12-18T21:04:41Z",
+                "channelId": "UClyGlKOhDUooPJFy4v_mqPg",
+                "title": "I made an Ai Secretary to answer my actual emails",
+                "description": "These will be the greatest email responses, ever. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=jDgvL8z_DRU\n\nEdited by CyVoltage! https://www.youtube.com/c/CyVoltage\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nMusic Credits (in order of appearance):\n\nDNF Duel - Gate Crasher\nGrandia 1 - Delightful Adventure\nSuper Mario Party - Suit Yourselves\nBayonetta - Gigantic Military Transport [Valkyrie]\nBayonetta - Magical Sound Shower Out Run\nCounter-Strike Global Offensive - Lets GO\nClassical - Cello Suite Bach\nPsychonauts 2 - Casino Monorail\nClassical - Love Theme\nBayonetta 2 - Warning!\nBayonetta 2 - Glamor In Charm And Allure\nSmash Bros. Brawl - The Roost\nRymdklang - Disco Craze\nBeyond Good and Evil - Ambience Snare\nPaper Mario The Origami King - Battle Lab\nBully - Final Showdown\nSuper Mario 3D World - Bowser's Lava Lake Keep\nSuper Mario Odyssey - Staff Roll\nSuper Mario 3D World - Simmering Lava Lake\nSmash Bros. Brawl - Brain Cleaner\nBeyond Good and Evil - Fight\nBayonetta 2 - Shopping (B)\nBayonetta 3 - Gomorrah Brings Destruction\nVivaldi Winter\nXenoblade Chronicles 2 - Still, Move Forward! (Combat Theme 3)\nPersona 5 - Price\nAnimal Crossing - Theme Song\nMetal Gear Solid - Encounter\nBowser's Fury - Fury Bowser Rises\nChrono Cross - Optimism\nSuper Mario Odyssey - New Donk City Daytime\nXenoblade Chronicles 2 - Monster Surprised You\nPersona 5 - Price\nXenoblade Chronicles 3 - Event BGM 110\nhttps://freesound.org/people/Sheyvan/sounds/475221/\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#dougdoug #chatgpt #artificialintelligence",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pHDh_PWMTaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pHDh_PWMTaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pHDh_PWMTaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pHDh_PWMTaU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pHDh_PWMTaU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DougDoug",
+                "tags": [
+                    "DougDoug",
+                    "DougDoug Youtube Channel",
+                    "Channel Youtube DougDoug",
+                    "doug doug",
+                    "twitch",
+                    "twitch chat",
+                    "dougdoug twitch chat",
+                    "twitch chat plays",
+                    "dougdoug twitch",
+                    "email scams",
+                    "emails",
+                    "ai",
+                    "artificial intelligence",
+                    "spam emails",
+                    "shelby",
+                    "craig",
+                    "job interviews",
+                    "chatgpt interview",
+                    "scam",
+                    "scam email"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I made an Ai Secretary to answer my actual emails",
+                    "description": "These will be the greatest email responses, ever. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=jDgvL8z_DRU\n\nEdited by CyVoltage! https://www.youtube.com/c/CyVoltage\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nMusic Credits (in order of appearance):\n\nDNF Duel - Gate Crasher\nGrandia 1 - Delightful Adventure\nSuper Mario Party - Suit Yourselves\nBayonetta - Gigantic Military Transport [Valkyrie]\nBayonetta - Magical Sound Shower Out Run\nCounter-Strike Global Offensive - Lets GO\nClassical - Cello Suite Bach\nPsychonauts 2 - Casino Monorail\nClassical - Love Theme\nBayonetta 2 - Warning!\nBayonetta 2 - Glamor In Charm And Allure\nSmash Bros. Brawl - The Roost\nRymdklang - Disco Craze\nBeyond Good and Evil - Ambience Snare\nPaper Mario The Origami King - Battle Lab\nBully - Final Showdown\nSuper Mario 3D World - Bowser's Lava Lake Keep\nSuper Mario Odyssey - Staff Roll\nSuper Mario 3D World - Simmering Lava Lake\nSmash Bros. Brawl - Brain Cleaner\nBeyond Good and Evil - Fight\nBayonetta 2 - Shopping (B)\nBayonetta 3 - Gomorrah Brings Destruction\nVivaldi Winter\nXenoblade Chronicles 2 - Still, Move Forward! (Combat Theme 3)\nPersona 5 - Price\nAnimal Crossing - Theme Song\nMetal Gear Solid - Encounter\nBowser's Fury - Fury Bowser Rises\nChrono Cross - Optimism\nSuper Mario Odyssey - New Donk City Daytime\nXenoblade Chronicles 2 - Monster Surprised You\nPersona 5 - Price\nXenoblade Chronicles 3 - Event BGM 110\nhttps://freesound.org/people/Sheyvan/sounds/475221/\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#dougdoug #chatgpt #artificialintelligence"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "klG6jlGnMnOBZnZvBc9BF-zFuPk",
+            "id": "FOQJTiIwwEA",
+            "snippet": {
+                "publishedAt": "2023-12-19T13:00:08Z",
+                "channelId": "UCBiJBaDaM3K6vPVggLhTyWA",
+                "title": "An Offering From Drumeo | Sleep Token II",
+                "description": "This is the first recorded video interview that any member of Sleep Token has ever done. We are honored that II has decided to do this with Drumeo.\n\nII is a founding member and the drummer for the anonymous band Sleep Token. Join II and Brandon as they discuss the band's recent album 'Take Me Back to Eden' and the evolution of his drumming style across their three albums. He gives us a unique glimpse into his drumming techniques, how he creates his drum parts with Sleep Token, and vocabulary that defines his drumming style.\n\nThis is an offering from Drumeo. \n\nWorship.\n\nTry 7 Days Of Drumeo FREE\n► https://www.drumeo.com/trial\n\nEnter To Win: Brand New Signature Drumsticks & Take Me Back to Eden (Vinyl) Signed by II\n► https://www.drumeo.com/giveaway/\n_______________\nChapters: \n\n00:00 - Intro\n00:06 - “Vore” by Sleep Token (Performance) \n05:29 - Welcome\n06:37 - \"The Night Does Not Belong To God\" by Sleep Token (Performance) \n09:16 - Influences \n09:51 - \"Chokehold\" by Sleep Token (Performance) \n12:48 - The Evolution of II's Drumming\n14:15 - \"Gods\" by Sleep Token (Performance) \n17:55 - \"Dark Signs\" by Sleep Token (Performance) \n21:47 - Developing Drum Parts \n23:36 - \"The Apparition\" by Sleep Token (Performance) \n26:53 - Drumming Style\n28:30 - \"Atlantic\" by Sleep Token (Performance) \n29:59 - Favorite Rudiments\n30:25 - \"Alkaline\" by Sleep Token (Performance) \n32:58 - \"Like That\" by Sleep Token (Performance) \n36:15 - Creative Liberties\n38:19 - \"Rain\" by Sleep Token (Performance) \n41:27 - Favorite Drummers\n41:58 - \"Take Me Back To Eden\" by Sleep Token (Performance) \n47:52 - Favorite Songs To Perform Live \n49:01 - Final Thoughts \n49:16 - \"Higher\" by Sleep Token (Performance) \n53:00 - Outro\n_______________\nFollow II:\n►Instagram: https://www.instagram.com/ii_sleeptoken\n►Facebook: https://www.facebook.com/ii.sleeptoken/\n►Twitter: https://twitter.com/ii_sleeptoken\n\nFollow @Sleep-Token \n►Instagram: https://www.instagram.com/sleep_token\n►Facebook: https://www.facebook.com/sleeptoken/\n►Twitter: https://twitter.com/Sleep_Token\n►Website: https://www.sleep-token.com/\n\nFollow @BrandonToews \n►Instagram: https://www.instagram.com/brandon.toews/\n►Facebook: https://www.facebook.com/brandon.toews\n►TikTok: https://www.tiktok.com/@brandon.toews\n\nFollow us:\n►The Drumeo Beat: https://www.drumeo.com/beat/\n►Facebook: http://facebook.com/drumeo/\n►Instagram: http://instagram.com/drumeoofficial/\n►TikTok: https://www.tiktok.com/@drumeoofficial\n_______________\nGet the Drumeo App:\n►Apple App Store: https://hi.drumeo.com/DrumeoApp_AppleAppStore\n►Google Play Store: https://hi.drumeo.com/DrumeoApp_GooglePlayStore\n_______________\n\n#Drumeo #SleepToken #II",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FOQJTiIwwEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FOQJTiIwwEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FOQJTiIwwEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FOQJTiIwwEA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FOQJTiIwwEA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Drumeo",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "An Offering From Drumeo | Sleep Token II",
+                    "description": "This is the first recorded video interview that any member of Sleep Token has ever done. We are honored that II has decided to do this with Drumeo.\n\nII is a founding member and the drummer for the anonymous band Sleep Token. Join II and Brandon as they discuss the band's recent album 'Take Me Back to Eden' and the evolution of his drumming style across their three albums. He gives us a unique glimpse into his drumming techniques, how he creates his drum parts with Sleep Token, and vocabulary that defines his drumming style.\n\nThis is an offering from Drumeo. \n\nWorship.\n\nTry 7 Days Of Drumeo FREE\n► https://www.drumeo.com/trial\n\nEnter To Win: Brand New Signature Drumsticks & Take Me Back to Eden (Vinyl) Signed by II\n► https://www.drumeo.com/giveaway/\n_______________\nChapters: \n\n00:00 - Intro\n00:06 - “Vore” by Sleep Token (Performance) \n05:29 - Welcome\n06:37 - \"The Night Does Not Belong To God\" by Sleep Token (Performance) \n09:16 - Influences \n09:51 - \"Chokehold\" by Sleep Token (Performance) \n12:48 - The Evolution of II's Drumming\n14:15 - \"Gods\" by Sleep Token (Performance) \n17:55 - \"Dark Signs\" by Sleep Token (Performance) \n21:47 - Developing Drum Parts \n23:36 - \"The Apparition\" by Sleep Token (Performance) \n26:53 - Drumming Style\n28:30 - \"Atlantic\" by Sleep Token (Performance) \n29:59 - Favorite Rudiments\n30:25 - \"Alkaline\" by Sleep Token (Performance) \n32:58 - \"Like That\" by Sleep Token (Performance) \n36:15 - Creative Liberties\n38:19 - \"Rain\" by Sleep Token (Performance) \n41:27 - Favorite Drummers\n41:58 - \"Take Me Back To Eden\" by Sleep Token (Performance) \n47:52 - Favorite Songs To Perform Live \n49:01 - Final Thoughts \n49:16 - \"Higher\" by Sleep Token (Performance) \n53:00 - Outro\n_______________\nFollow II:\n►Instagram: https://www.instagram.com/ii_sleeptoken\n►Facebook: https://www.facebook.com/ii.sleeptoken/\n►Twitter: https://twitter.com/ii_sleeptoken\n\nFollow @Sleep-Token \n►Instagram: https://www.instagram.com/sleep_token\n►Facebook: https://www.facebook.com/sleeptoken/\n►Twitter: https://twitter.com/Sleep_Token\n►Website: https://www.sleep-token.com/\n\nFollow @BrandonToews \n►Instagram: https://www.instagram.com/brandon.toews/\n►Facebook: https://www.facebook.com/brandon.toews\n►TikTok: https://www.tiktok.com/@brandon.toews\n\nFollow us:\n►The Drumeo Beat: https://www.drumeo.com/beat/\n►Facebook: http://facebook.com/drumeo/\n►Instagram: http://instagram.com/drumeoofficial/\n►TikTok: https://www.tiktok.com/@drumeoofficial\n_______________\nGet the Drumeo App:\n►Apple App Store: https://hi.drumeo.com/DrumeoApp_AppleAppStore\n►Google Play Store: https://hi.drumeo.com/DrumeoApp_GooglePlayStore\n_______________\n\n#Drumeo #SleepToken #II"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8WkIUSgQHYJPA99x3-q63RpkWGg",
+            "id": "LSe4kH8IImw",
+            "snippet": {
+                "publishedAt": "2023-12-18T20:00:02Z",
+                "channelId": "UCYHnYO50VV8SzsmQq5PChRA",
+                "title": "He's In The VENTS?! - FNAF VR 2 Like Mexican",
+                "description": "Five Night's at Freddy's Help Wanted 2 Part 2\n\nSocials:\nTwitter: https://twitter.com/sauceddie\nInstagram: https://www.instagram.com/sauceddie\nTikTok: https://www.tiktok.com/@sauceddie\nSubmit Your Scariest tiktoks! - https://www.reddit.com/r/scaryeddie/\n\nMerch: https://theboys.store\nDiscord: https://discord.gg/eddievr\n\nMy friends: \nMully: https://www.youtube.com/channel/UClS6zI81d6YaDy7yLjrCzEw \nJuicy: https://www.youtube.com/channel/UC_YkukM6o3D3GiKnFXLq0vQ\nJosh: https://www.youtube.com/channel/UCK0VozPhniGe4Eb2zcju1uw\nNarrator: https://www.youtube.com/channel/UCAYfH3griedXBdJX0awJTCg\nGabriela: https://www.youtube.com/channel/UC9ho8fNWiCNRvzD-CskZl7A\n\nEdited by: Oli B - https://twitter.com/Oli_B_VR",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LSe4kH8IImw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LSe4kH8IImw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LSe4kH8IImw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LSe4kH8IImw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LSe4kH8IImw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "EddieVR",
+                "tags": [
+                    "fnaf vr",
+                    "fnaf vr like a mexican",
+                    "mexican youtuber",
+                    "mexican vr youtuber",
+                    "mexican fnaf vr",
+                    "eddie vr",
+                    "fnaf eddievr",
+                    "eddie vr fnaf",
+                    "five nights at freddys eddie vr",
+                    "virtual reality",
+                    "eddievr",
+                    "the mexorcist",
+                    "vr horror",
+                    "horror",
+                    "the boys",
+                    "vr",
+                    "vr funny moments",
+                    "horror game",
+                    "vr funny",
+                    "virtual reality horror",
+                    "scary vr",
+                    "help wanted",
+                    "help wanted 2",
+                    "five nights at freddies help wanted 2"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "He's In The VENTS?! - FNAF VR 2 Like Mexican",
+                    "description": "Five Night's at Freddy's Help Wanted 2 Part 2\n\nSocials:\nTwitter: https://twitter.com/sauceddie\nInstagram: https://www.instagram.com/sauceddie\nTikTok: https://www.tiktok.com/@sauceddie\nSubmit Your Scariest tiktoks! - https://www.reddit.com/r/scaryeddie/\n\nMerch: https://theboys.store\nDiscord: https://discord.gg/eddievr\n\nMy friends: \nMully: https://www.youtube.com/channel/UClS6zI81d6YaDy7yLjrCzEw \nJuicy: https://www.youtube.com/channel/UC_YkukM6o3D3GiKnFXLq0vQ\nJosh: https://www.youtube.com/channel/UCK0VozPhniGe4Eb2zcju1uw\nNarrator: https://www.youtube.com/channel/UCAYfH3griedXBdJX0awJTCg\nGabriela: https://www.youtube.com/channel/UC9ho8fNWiCNRvzD-CskZl7A\n\nEdited by: Oli B - https://twitter.com/Oli_B_VR"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fRHDcbX2No6fa7SDcTZW0ky2aqM",
+            "id": "lrKls391UNg",
+            "snippet": {
+                "publishedAt": "2023-12-19T00:41:12Z",
+                "channelId": "UCKt6UNcaVIS258z9Gujeirw",
+                "title": "My viewers sent me AWFUL Christmas Gifts",
+                "description": "Gift hydration this holiday season with air up! Save up to 30% off your order for a limited time only: https://airup.link/CrispyConcords\n\nhappy holidays everyone! the po box is back open... but what did you guys send this time lol. i gave everyone a week notice in my discord for this and huge shoutout to anyone who sent in a gift in time.\n\nMy other channels:\n\nPokemon Channel - @CrispyPokemon \n\nExtra Crispy - @CrispyConcords  \n\npo box info:\nCrispy Concords\nPO BOX # 28069\nAustin, TX 78731\n\nJoin my Discord! - http://discord.gg/crispy\n\nMy Links:\nTwitter: http://twitter.com/Crispy\nInstagram: http://instagram.com/Crispy\nSnapchat: CrispyConcords",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lrKls391UNg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lrKls391UNg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lrKls391UNg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lrKls391UNg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lrKls391UNg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Crispy Concords",
+                "tags": [
+                    "fan mail",
+                    "unboxing",
+                    "opening",
+                    "christmas gifts",
+                    "holidays",
+                    "holiday",
+                    "gifts",
+                    "worst gifts",
+                    "best gifts",
+                    "funny gifts",
+                    "funny",
+                    "new",
+                    "viewers sent me this",
+                    "worst",
+                    "best",
+                    "po box",
+                    "weird",
+                    "items",
+                    "mystery box",
+                    "memes",
+                    "crispy concords"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "My viewers sent me AWFUL Christmas Gifts",
+                    "description": "Gift hydration this holiday season with air up! Save up to 30% off your order for a limited time only: https://airup.link/CrispyConcords\n\nhappy holidays everyone! the po box is back open... but what did you guys send this time lol. i gave everyone a week notice in my discord for this and huge shoutout to anyone who sent in a gift in time.\n\nMy other channels:\n\nPokemon Channel - @CrispyPokemon \n\nExtra Crispy - @CrispyConcords  \n\npo box info:\nCrispy Concords\nPO BOX # 28069\nAustin, TX 78731\n\nJoin my Discord! - http://discord.gg/crispy\n\nMy Links:\nTwitter: http://twitter.com/Crispy\nInstagram: http://instagram.com/Crispy\nSnapchat: CrispyConcords"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2b5MJg_QatAkvRrmrvvj4iUjudY",
+            "id": "OSRMoNKftyk",
+            "snippet": {
+                "publishedAt": "2023-12-19T14:59:57Z",
+                "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+                "title": "ITZY YEJI \"Crown On My Head\" M/V @ITZY",
+                "description": "ITZY YEJI \"Crown On My Head\" M/V\n\nITZY \"BORN TO BE\"\n🔥 M/V https://youtu.be/4R7vRFGJr3k\n🔥 ALBUM  https://ITZY.lnk.to/BORNTOBE\n\n📌 ALBUM RELEASE \n2024.01.08 MON 6PM (KST) | 4AM (EST)\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #YEJI #CrownOnMyHead\n\nCopyrights 2023 ⓒ JYP Entertainment. All Rights Reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OSRMoNKftyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OSRMoNKftyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OSRMoNKftyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OSRMoNKftyk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OSRMoNKftyk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JYP Entertainment",
+                "tags": [
+                    "JYP Entertainment",
+                    "JYP",
+                    "ITZY",
+                    "있지",
+                    "イッチ",
+                    "예지",
+                    "리아",
+                    "류진",
+                    "채령",
+                    "유나",
+                    "YEJI",
+                    "LIA",
+                    "RYUJIN",
+                    "CHAERYEONG",
+                    "YUNA",
+                    "イェジ",
+                    "リア",
+                    "リュジン",
+                    "チェリョン",
+                    "ユナ",
+                    "อิทจี",
+                    "เยจี",
+                    "ลีอา",
+                    "รยูจิน",
+                    "แชรยอง",
+                    "ยูนา",
+                    "ITZY VIDEOS",
+                    "ITZY BEHIND",
+                    "MV",
+                    "ITZY MV",
+                    "ITZY MUSIC VIDEOS",
+                    "Teaser",
+                    "ITZY Teaser",
+                    "ITZY VLOG",
+                    "VLOG",
+                    "IT'z Different",
+                    "IT'z ICY",
+                    "IT'z ME",
+                    "Not Shy",
+                    "GUESS WHO",
+                    "CRAZY IN LOVE",
+                    "DALLA DALLA",
+                    "ICY",
+                    "WANNABE",
+                    "마.피.아.IN THE MORNING",
+                    "LOCO",
+                    "ITZY?ITZY!",
+                    "ITZY CHECKMATE",
+                    "CHECKMATE",
+                    "ITZY COMEBACK",
+                    "SNEAKERS",
+                    "Boys Like You",
+                    "CHESHIRE",
+                    "KILL MY DOUBT",
+                    "CAKE",
+                    "BORN TO BE"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ITZY YEJI \"Crown On My Head\" M/V @ITZY",
+                    "description": "ITZY YEJI \"Crown On My Head\" M/V\n\nITZY \"BORN TO BE\"\n🔥 M/V https://youtu.be/4R7vRFGJr3k\n🔥 ALBUM  https://ITZY.lnk.to/BORNTOBE\n\n📌 ALBUM RELEASE \n2024.01.08 MON 6PM (KST) | 4AM (EST)\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #YEJI #CrownOnMyHead\n\nCopyrights 2023 ⓒ JYP Entertainment. All Rights Reserved"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "88y5aT-nl_u9AtM9RLdGZXyUxaw",
+            "id": "wisX-CEjoxc",
+            "snippet": {
+                "publishedAt": "2023-12-18T17:00:09Z",
+                "channelId": "UCBXOFnNTULFaAnj24PAeblg",
+                "title": "The Chosen: Season 4 Official Trailer",
+                "description": "Get tickets now: https://www.thechosenriseup.com/\n\n\"Come to me, you who are weary and heavy-laden, and I will give you rest.\" That was the theme of Season 3. Jesus said this to a crowd of thousands before also saying it to Simon while they stood on water. Season 4? Jesus is weary and heavy-laden, and He needs rest.\n\nWe're getting closer and closer to Jerusalem, to what we know is coming. Jesus is getting increasingly frustrated, and yes, sad. Not because he's getting closer to death, but because of the reasons He must die. From his faith's religious leaders, to the holy city of Jerusalem, to his own friends and followers, people are not understanding his mission. To that end, He must allow painful things, and even set in motion certain confusing or bittersweet events, to accelerate the outcomes that will lead to Holy Week. \n\nSeason 4 marks the midpoint of the most famous and influential story in human history. It will be painful, and it will be joyous. It will be bittersweet. But by all measures, Season 4 will also be our best.\n\n- Dallas Jenkins, Creator of The Chosen",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wisX-CEjoxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wisX-CEjoxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wisX-CEjoxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wisX-CEjoxc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wisX-CEjoxc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Chosen",
+                "tags": [
+                    "the chosen",
+                    "the chosen tv series",
+                    "bingeJesus",
+                    "GetUsedtoDifferent",
+                    "Faith-based",
+                    "Bible show",
+                    "Bible study",
+                    "Christianity",
+                    "church",
+                    "Jesus show",
+                    "what to watch",
+                    "tv show",
+                    "filmmaking"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Chosen: Season 4 Official Trailer",
+                    "description": "Get tickets now: https://www.thechosenriseup.com/\n\n\"Come to me, you who are weary and heavy-laden, and I will give you rest.\" That was the theme of Season 3. Jesus said this to a crowd of thousands before also saying it to Simon while they stood on water. Season 4? Jesus is weary and heavy-laden, and He needs rest.\n\nWe're getting closer and closer to Jerusalem, to what we know is coming. Jesus is getting increasingly frustrated, and yes, sad. Not because he's getting closer to death, but because of the reasons He must die. From his faith's religious leaders, to the holy city of Jerusalem, to his own friends and followers, people are not understanding his mission. To that end, He must allow painful things, and even set in motion certain confusing or bittersweet events, to accelerate the outcomes that will lead to Holy Week. \n\nSeason 4 marks the midpoint of the most famous and influential story in human history. It will be painful, and it will be joyous. It will be bittersweet. But by all measures, Season 4 will also be our best.\n\n- Dallas Jenkins, Creator of The Chosen"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YqHigJ8ekeZESB6SZHDExBRVuw8",
+            "id": "0ZhHoyqQEhA",
+            "snippet": {
+                "publishedAt": "2023-12-19T14:00:01Z",
+                "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+                "title": "How Engineers Straightened the Leaning Tower of Pisa",
+                "description": "One of my favorite civil engineering projects!\n🌌Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/Practical-Engineering\n🚆Watch \"The Logistics of X\": https://nebula.tv/thelogisticsofx?ref=practical-engineering\n\nThe lean isn’t just a fascinating oddity; it is integral to the historical character of the tower. It’s a big part of why we care. Unlike the millions of photos of tourists pretending to hold the Pisa tower up, the contractors, restoration experts, and engineers actually did it (for the next few centuries, at least).\n\nSources: The script is primarily based on the papers linked below.\nhttps://www.tandfonline.com/doi/abs/10.1080/13556207.2002.10785324\nhttps://associazionegeotecnica.it/articoli_rig/electro-osmosis-to-stabilise-the-leaning-tower-of-pisa/\nhttps://www.issmge.org/publications/publication/the-leaning-tower-of-pisa-end-of-an-odyssey\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-how-engineers-straightened-the-leaning-tower-of-pisa\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Nebula.\nStock video and imagery provided by Getty Images, Shutterstock, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nProduced by Ralph Crewe\nGraphics by Nebula Studios",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0ZhHoyqQEhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0ZhHoyqQEhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0ZhHoyqQEhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0ZhHoyqQEhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0ZhHoyqQEhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Practical Engineering",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How Engineers Straightened the Leaning Tower of Pisa",
+                    "description": "One of my favorite civil engineering projects!\n🌌Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/Practical-Engineering\n🚆Watch \"The Logistics of X\": https://nebula.tv/thelogisticsofx?ref=practical-engineering\n\nThe lean isn’t just a fascinating oddity; it is integral to the historical character of the tower. It’s a big part of why we care. Unlike the millions of photos of tourists pretending to hold the Pisa tower up, the contractors, restoration experts, and engineers actually did it (for the next few centuries, at least).\n\nSources: The script is primarily based on the papers linked below.\nhttps://www.tandfonline.com/doi/abs/10.1080/13556207.2002.10785324\nhttps://associazionegeotecnica.it/articoli_rig/electro-osmosis-to-stabilise-the-leaning-tower-of-pisa/\nhttps://www.issmge.org/publications/publication/the-leaning-tower-of-pisa-end-of-an-odyssey\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-how-engineers-straightened-the-leaning-tower-of-pisa\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Nebula.\nStock video and imagery provided by Getty Images, Shutterstock, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nProduced by Ralph Crewe\nGraphics by Nebula Studios"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "f_YpZpT7L7udnnBH5f3_JZmCvsg",
+            "id": "ajNYTJcF6rE",
+            "snippet": {
+                "publishedAt": "2023-12-18T10:00:02Z",
+                "channelId": "UC4eYXhJI4-7wSWc8UNRwD4A",
+                "title": "Scarface: Tiny Desk Concert",
+                "description": "Bobby Carter | December 18, 2023\nScarface's Tiny Desk concert radiates with his decadeslong passion as an emcee and producer. There's calculated intent behind every word and note of this 30-minute set and I learned that his love for golf also runs deep during our initial meeting. He was playing a round and had difficulty dividing his attention between the plan and the course. Three days before the show, amid rehearsals, I got a call from Facemob asking, \"What if I brought Mike Dean?\" My expectations were already high, but that final addition set the stage for something special.\n\nMike Dean provided unmatched authenticity, and their shared stories added sentimental value to this performance. After all, his signature keys and synths can be heard on most of Scarface's classics and countless Rap-A-Lot records. Here, we get a rare glimpse of Scarface the conductor, bouncing through multiple eras of his catalog including \"On My Block,\" \"Mary Jane\" and the bone-chilling \"I Seen a Man Die.\"\n\nScarface, along with Rakim, was recently awarded the inaugural Hip-Hop Grandmaster Award from the newly launched Paid in Full Foundation, which includes a sizable financial prize and healthcare. No matter how the never-ending hip-hop greats debate is sliced, the rapper's place is cemented as one of the most influential storytellers in the culture and his Tiny Desk is proof.\n\nSET LIST\n\"On My Block\"\n\"Mary Jane\"\n\"Smile\"\n\"I Seen a Man Die\"\n\"F**k Faces\"\n\"Mind Playing Tricks on Me\"\n\nMUSICIANS\nScarface: lead vocals, guitar\nMike Dean: keys\nSteven \"Spud\" Howard: vocals\nTakai \"Cookie\" Hicks: vocals \nPeigh Jones: vocals, guitar \nCorey \"FunkaFingers\" Stoot: guitar \nJosh Henderson: keys\nJason \"The Bishop\" Allen: keys\nSavar Martin: drums \nAnthony \"Antboogie\" Nicholson: bass, musical direction \n\nTINY DESK TEAM\nProducer: Bobby Carter\nDirector: Maia Stern\nEditor: Joshua Bryant\nAudio Engineer: Josh Rogosin\nVideographers: Maia Stern, Joshua Bryant, Alanté Serene, Michael Zamora\nAudio Assistant: Ted Mebane\nProduction Assistant: Ashley Pointer\nPhotographer: Elizabeth Gillis\nTiny Desk Team: Suraya Mohamed, Kara Frame, Hazel Cills\nSeries Creators: Bob Boilen, Stephen Thompson\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#nprmusic #tinydesk #scarface",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ajNYTJcF6rE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ajNYTJcF6rE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ajNYTJcF6rE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ajNYTJcF6rE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ajNYTJcF6rE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NPR Music",
+                "tags": [
+                    "NPR",
+                    "NPR Music",
+                    "National Public Radio",
+                    "Live",
+                    "Performance",
+                    "tiny desk",
+                    "tiny desk concert",
+                    "tony desk",
+                    "tiny concert"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Scarface: Tiny Desk Concert",
+                    "description": "Bobby Carter | December 18, 2023\nScarface's Tiny Desk concert radiates with his decadeslong passion as an emcee and producer. There's calculated intent behind every word and note of this 30-minute set and I learned that his love for golf also runs deep during our initial meeting. He was playing a round and had difficulty dividing his attention between the plan and the course. Three days before the show, amid rehearsals, I got a call from Facemob asking, \"What if I brought Mike Dean?\" My expectations were already high, but that final addition set the stage for something special.\n\nMike Dean provided unmatched authenticity, and their shared stories added sentimental value to this performance. After all, his signature keys and synths can be heard on most of Scarface's classics and countless Rap-A-Lot records. Here, we get a rare glimpse of Scarface the conductor, bouncing through multiple eras of his catalog including \"On My Block,\" \"Mary Jane\" and the bone-chilling \"I Seen a Man Die.\"\n\nScarface, along with Rakim, was recently awarded the inaugural Hip-Hop Grandmaster Award from the newly launched Paid in Full Foundation, which includes a sizable financial prize and healthcare. No matter how the never-ending hip-hop greats debate is sliced, the rapper's place is cemented as one of the most influential storytellers in the culture and his Tiny Desk is proof.\n\nSET LIST\n\"On My Block\"\n\"Mary Jane\"\n\"Smile\"\n\"I Seen a Man Die\"\n\"F**k Faces\"\n\"Mind Playing Tricks on Me\"\n\nMUSICIANS\nScarface: lead vocals, guitar\nMike Dean: keys\nSteven \"Spud\" Howard: vocals\nTakai \"Cookie\" Hicks: vocals \nPeigh Jones: vocals, guitar \nCorey \"FunkaFingers\" Stoot: guitar \nJosh Henderson: keys\nJason \"The Bishop\" Allen: keys\nSavar Martin: drums \nAnthony \"Antboogie\" Nicholson: bass, musical direction \n\nTINY DESK TEAM\nProducer: Bobby Carter\nDirector: Maia Stern\nEditor: Joshua Bryant\nAudio Engineer: Josh Rogosin\nVideographers: Maia Stern, Joshua Bryant, Alanté Serene, Michael Zamora\nAudio Assistant: Ted Mebane\nProduction Assistant: Ashley Pointer\nPhotographer: Elizabeth Gillis\nTiny Desk Team: Suraya Mohamed, Kara Frame, Hazel Cills\nSeries Creators: Bob Boilen, Stephen Thompson\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#nprmusic #tinydesk #scarface"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kaNXVTvRD9Is15wPu3FHTGOv-u8",
+            "id": "Eo3zORUGCbM",
+            "snippet": {
+                "publishedAt": "2023-12-18T07:30:02Z",
+                "channelId": "UC3XTzVzaHQEd30rQbuvCtTQ",
+                "title": "Elon Musk: Last Week Tonight with John Oliver (HBO)",
+                "description": "John Oliver discusses Elon Musk, the influence he has over more than just his businesses, and the perfect place for him and Mark Zuckerberg to finally have that cage match. \n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: www.youtube.com/lastweektonight \n\nFind Last Week Tonight on Facebook like your mom would: www.facebook.com/lastweektonight \n\nFollow us on Twitter for news about jokes and jokes about news: www.twitter.com/lastweektonight \n\nVisit our official site for all that other stuff at once: www.hbo.com/lastweektonight",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Eo3zORUGCbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Eo3zORUGCbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Eo3zORUGCbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eo3zORUGCbM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Eo3zORUGCbM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LastWeekTonight",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Elon Musk: Last Week Tonight with John Oliver (HBO)",
+                    "description": "John Oliver discusses Elon Musk, the influence he has over more than just his businesses, and the perfect place for him and Mark Zuckerberg to finally have that cage match. \n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: www.youtube.com/lastweektonight \n\nFind Last Week Tonight on Facebook like your mom would: www.facebook.com/lastweektonight \n\nFollow us on Twitter for news about jokes and jokes about news: www.twitter.com/lastweektonight \n\nVisit our official site for all that other stuff at once: www.hbo.com/lastweektonight"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aUTo_Wr3hc693xXKra6WyySkAnE",
+            "id": "L21xIU4tNM0",
+            "snippet": {
+                "publishedAt": "2023-12-19T05:33:34Z",
+                "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+                "title": "Why Iceland’s Latest Volcanic Eruption Looks So Different | WSJ",
+                "description": "A volcano in southwest Iceland erupted after weeks of intense earthquake activity and the evacuation of thousands from the area. The Reykjanes Peninsula is experiencing a fissure eruption instead of an explosive eruption, where lava is basically oozing from cracks in the ground. This runny magma can severely damage infrastructure as it can widely spread across the landscape.\n\nWSJ explains the science of fissure eruptions and the particular dangers they pose to the Reykjanes Peninsula in Iceland. \n\nPhoto: Civil Protection of Iceland/Reuters\n\n0:00 Situation in Iceland\n0:28 Explosive vs. fissure eruptions\n2:05 Iceland’s volcanic history\n3:25 What’s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Iceland #Volcano #WSJ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L21xIU4tNM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L21xIU4tNM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L21xIU4tNM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L21xIU4tNM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L21xIU4tNM0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Wall Street Journal",
+                "tags": [
+                    "volcanoes",
+                    "volcanic eruptions explosive eruption",
+                    "fissure eruption",
+                    "natural disasters",
+                    "volcanic systems",
+                    "viscous lava",
+                    "runny lava",
+                    "Pomepii",
+                    "Blue Lagoon",
+                    "nine-mile dike",
+                    "tectonic plates",
+                    "earthquakes",
+                    "magma",
+                    "Iceland",
+                    "Reykjanes",
+                    "Reykjanes Peninsula",
+                    "Grindavik",
+                    "Fagradalsfjall",
+                    "Svartsengi volcanic system",
+                    "iceland",
+                    "iceland news",
+                    "reykjanes volcano",
+                    "reykjanes peninsula",
+                    "explosive eruption",
+                    "volcanic eruption",
+                    "lava flows",
+                    "grindavik",
+                    "eurasian tectonic plate",
+                    "north american tectonic plates",
+                    "scnc"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Why Iceland’s Latest Volcanic Eruption Looks So Different | WSJ",
+                    "description": "A volcano in southwest Iceland erupted after weeks of intense earthquake activity and the evacuation of thousands from the area. The Reykjanes Peninsula is experiencing a fissure eruption instead of an explosive eruption, where lava is basically oozing from cracks in the ground. This runny magma can severely damage infrastructure as it can widely spread across the landscape.\n\nWSJ explains the science of fissure eruptions and the particular dangers they pose to the Reykjanes Peninsula in Iceland. \n\nPhoto: Civil Protection of Iceland/Reuters\n\n0:00 Situation in Iceland\n0:28 Explosive vs. fissure eruptions\n2:05 Iceland’s volcanic history\n3:25 What’s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Iceland #Volcano #WSJ"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "nyQD-3IlmiH7Q0eYNtu_6SZjoig",
+            "id": "u9ur22gCLKQ",
+            "snippet": {
+                "publishedAt": "2023-12-19T18:02:56Z",
+                "channelId": "UCHZ986wm_sJT6wntdDTIIcw",
+                "title": "How We Almost Lost 2b2t",
+                "description": "Today we'll cover how we almost lost 2b2t when the server finally updated to modern Minecraft! \nDownload Disney Speedstorm for free now and play as some of your favorite Disney and Pixar characters in this fun and exciting competitive hero-based racing game! - https://gmlft.co/FitMC-DS-YT\n\nMy Twitter: FitMC\nMy Instagram: fitmcsippycup\nMy Twitch: FitMC\n\nImages/Resources:\nXCC2 (Render)\nAdditional Music:\nIQ, SMRPG, KH2, FFO\n\nIf you enjoyed this video discussing how we almost lost 2b2t, I would appreciate if you would consider hitting that like and subscribe button!\nThis video has nothing to do with speedrunners, 100 days, \"minecraft but\", 1.21, armadillos, chambers, QSMP, or any of those other topics.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u9ur22gCLKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u9ur22gCLKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u9ur22gCLKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u9ur22gCLKQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u9ur22gCLKQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FitMC",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How We Almost Lost 2b2t",
+                    "description": "Today we'll cover how we almost lost 2b2t when the server finally updated to modern Minecraft! \nDownload Disney Speedstorm for free now and play as some of your favorite Disney and Pixar characters in this fun and exciting competitive hero-based racing game! - https://gmlft.co/FitMC-DS-YT\n\nMy Twitter: FitMC\nMy Instagram: fitmcsippycup\nMy Twitch: FitMC\n\nImages/Resources:\nXCC2 (Render)\nAdditional Music:\nIQ, SMRPG, KH2, FFO\n\nIf you enjoyed this video discussing how we almost lost 2b2t, I would appreciate if you would consider hitting that like and subscribe button!\nThis video has nothing to do with speedrunners, 100 days, \"minecraft but\", 1.21, armadillos, chambers, QSMP, or any of those other topics."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5TKZINxuw2cVDj0XHXt5PINp5fc",
+            "id": "1oL96ARo2cQ",
+            "snippet": {
+                "publishedAt": "2023-12-19T17:19:04Z",
+                "channelId": "UCDZFQQgFuXiVnjyeAs9Ylkg",
+                "title": "It's Over...RIP Marvel's Wolverine",
+                "description": "Insomniac was hacked in what is the worse incident in the history of gaming. Marvel's Wolverine is cooked. \n💚 Unlock Channel Perks: https://www.youtube.com/channel/UCDZFQQgFuXiVnjyeAs9Ylkg/join\n👕 Code \"Sadot\" for 10% off Spider-Man, DC, Anime and Star Wars Merch: https://bit.ly/SadotTheGamerComicMerch\n❤️ Donate Here: https://streamelements.com/sadotthegamer-9107/tip\n🔥 Use code \"durag\" for 10% off amazing customizable controllers: https://us.aimcontrollers.com/ref/300/\n\n🚨 Insomniac Hack Escalates: The Biggest Leak in Gaming History | Wolverine PS5 Delayed? Sadot's Super News 🎮💥\"\n\n🌌 Durag Nation, brace yourselves for a major update on the Insomniac Games hack, arguably the worst leak in gaming history. Skip the intros - we're diving straight into this critical situation. If you value this kind of urgent gaming news, smash that like button or hit dislike as you see fit. Let's get into it. 🎮🔔\n\n🔹 'Insomniac Games Under Siege': First, a shoutout to the team at Insomniac, who are facing a tough time with both their hard work being compromised and personal employee information leaked. This isn't just about the games; it's about real people behind them whose lives are at risk. 🚨👥\n\n🔹 'Massive Scale of the Leak': The hackers demanded a ransom and even hosted an auction for the stolen data. After a week, they released most of what they had - over 1 million files, totaling 1.6 terabytes. This includes everything from employee passports to the licensing agreement between Marvel Games and Insomniac. 📛📂\n\n🔹 'Targeted Attack on Insomniac and Sony': The hackers' intention was purely monetary, choosing Insomniac and Sony as they believed gaming companies would be easy targets. They accessed the network in under 30 minutes, and the fallout is catastrophic. 💰🕹️\n\n🔹 'Impact on Insomniac’s Future Plans': Every plan Insomniac had for the next decade is now exposed, including budgets, release years, and identities of upcoming games. 'Marvel’s Wolverine' has been particularly hit hard, with gameplay, cutscenes, and the entire story leaked. 🌐🎮\n\n🔹 'Comparisons to GTA 6 Leak': While GTA 6 suffered a leak of early test footage, the scale of Insomniac's breach is unparalleled. This could potentially lead to a major reshuffle of 'Marvel’s Wolverine', especially its storyline. 🎭🔍\n\n🔹 'Protecting Employees and Bolstering Security': The primary focus now is ensuring the safety of affected employees and significantly upgrading Sony's security to prevent future incidents. This leak will undoubtedly have a lasting impact on the gaming industry. 🔐🛡️\n\nYou would have to mute everything related to Spider-Man, Spider-Man 2, Spider-Man 3, Venom, The X-Men, and Wolverine to avoid spoilers\n\n#wolverineps5 #wolverine #MarvelsWolverine #InsomniacGames #GamingNews #PlayStation5 #SpiderMan2 #marvel",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1oL96ARo2cQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1oL96ARo2cQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1oL96ARo2cQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1oL96ARo2cQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1oL96ARo2cQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sadot The Gamer",
+                "tags": [
+                    "wolverine ps5",
+                    "wolverine",
+                    "wolverine game",
+                    "marvel's wolverine",
+                    "sadot the gamer",
+                    "marvel's wolverine trailer",
+                    "wolverine ps5 trailer",
+                    "marvel's wolverine gameplay",
+                    "ps5",
+                    "wolverine ps5 spider man gameplay",
+                    "wolverine ps5 2024",
+                    "wolverine ps5 leak",
+                    "insomniac hacked",
+                    "marvel's wolverine hack",
+                    "insomiac games ransomware attack",
+                    "marvel's wolverine leaked",
+                    "wolverine leaks",
+                    "wolverine ps5 gameplay leak",
+                    "wolverine ps5 story",
+                    "marvel's wolverine game leak",
+                    "leaked x-men games",
+                    "insomniac hack"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "It's Over...RIP Marvel's Wolverine",
+                    "description": "Insomniac was hacked in what is the worse incident in the history of gaming. Marvel's Wolverine is cooked. \n💚 Unlock Channel Perks: https://www.youtube.com/channel/UCDZFQQgFuXiVnjyeAs9Ylkg/join\n👕 Code \"Sadot\" for 10% off Spider-Man, DC, Anime and Star Wars Merch: https://bit.ly/SadotTheGamerComicMerch\n❤️ Donate Here: https://streamelements.com/sadotthegamer-9107/tip\n🔥 Use code \"durag\" for 10% off amazing customizable controllers: https://us.aimcontrollers.com/ref/300/\n\n🚨 Insomniac Hack Escalates: The Biggest Leak in Gaming History | Wolverine PS5 Delayed? Sadot's Super News 🎮💥\"\n\n🌌 Durag Nation, brace yourselves for a major update on the Insomniac Games hack, arguably the worst leak in gaming history. Skip the intros - we're diving straight into this critical situation. If you value this kind of urgent gaming news, smash that like button or hit dislike as you see fit. Let's get into it. 🎮🔔\n\n🔹 'Insomniac Games Under Siege': First, a shoutout to the team at Insomniac, who are facing a tough time with both their hard work being compromised and personal employee information leaked. This isn't just about the games; it's about real people behind them whose lives are at risk. 🚨👥\n\n🔹 'Massive Scale of the Leak': The hackers demanded a ransom and even hosted an auction for the stolen data. After a week, they released most of what they had - over 1 million files, totaling 1.6 terabytes. This includes everything from employee passports to the licensing agreement between Marvel Games and Insomniac. 📛📂\n\n🔹 'Targeted Attack on Insomniac and Sony': The hackers' intention was purely monetary, choosing Insomniac and Sony as they believed gaming companies would be easy targets. They accessed the network in under 30 minutes, and the fallout is catastrophic. 💰🕹️\n\n🔹 'Impact on Insomniac’s Future Plans': Every plan Insomniac had for the next decade is now exposed, including budgets, release years, and identities of upcoming games. 'Marvel’s Wolverine' has been particularly hit hard, with gameplay, cutscenes, and the entire story leaked. 🌐🎮\n\n🔹 'Comparisons to GTA 6 Leak': While GTA 6 suffered a leak of early test footage, the scale of Insomniac's breach is unparalleled. This could potentially lead to a major reshuffle of 'Marvel’s Wolverine', especially its storyline. 🎭🔍\n\n🔹 'Protecting Employees and Bolstering Security': The primary focus now is ensuring the safety of affected employees and significantly upgrading Sony's security to prevent future incidents. This leak will undoubtedly have a lasting impact on the gaming industry. 🔐🛡️\n\nYou would have to mute everything related to Spider-Man, Spider-Man 2, Spider-Man 3, Venom, The X-Men, and Wolverine to avoid spoilers\n\n#wolverineps5 #wolverine #MarvelsWolverine #InsomniacGames #GamingNews #PlayStation5 #SpiderMan2 #marvel"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Xp9LHdSGCI3aah9rScuiM0AqED4",
+            "id": "Ni-g7qMMe5c",
+            "snippet": {
+                "publishedAt": "2023-12-19T17:00:01Z",
+                "channelId": "UCwtnkRZcvL4bfopzJ-Von8Q",
+                "title": "Twins Swap Christmas Gifts - Merrell Twins",
+                "description": "Watch see what we got each other for Christmas this year! \nNEW VIDEOS EVERY TUESDAY!!!\nSUBSCRIBE TO OUR CHANNEL ▶ http://bit.ly/2dSP9Fg \nOUR LIVE CHANNEL ▶ https://www.youtube.com/merrelltwinslive\n\nFollow Us on Twitter & Instagram: \nINSTAGRAM:▶ http://instagram.com/MerrellTwins\nINSTAGRAM: ▶http://instagram.com/vanessamerrell\nINSTAGRAM:▶http://instagram.com/veronicamerrell\nTWITTER: ▶https://twitter.com/MerrellTwins\nTWITTER: ▶https://twitter.com/VanessaMerrell\nTWITTER: ▶https://twitter.com/veronicamerrell\nwww.merrelltwins.com\n\nOUR OTHER VIDEOS\nBIRTHDAY GIFT SWAP 2023\nhttps://youtu.be/7o4rkBGZ3EI\nOUR 25th BIRTHDAY\nhttps://youtu.be/zLrPcYSPTas\nBIRTHDAY GIFT SWAP\nhttps://youtu.be/z_LdKL0drkA\nTWIN SWAP DRIVE THRU CHALLENGE\nhttps://youtu.be/nhhrxATx7aA\n2 SETS OF IDENTICAL TWINS DRIVE THRU PRANK\nhttps://youtu.be/p15SVRulr58\nTHE THIRD WHEEL\nhttps://youtu.be/uHYI42E8TKY\nTHAT ONE FRIEND\nhttps://youtu.be/aeOpNraDKy8\nMerrell Twins Exposed ep1\nhttps://youtu.be/mWXurqWRA74\n2 Sets of Twins Drive Thru Prank\nhttps://youtu.be/p15SVRulr58\nFans Write our Video\nhttps://youtu.be/WI0LYRZErjU\nThe Break Up\nhttps://youtu.be/MyS8AjVj9FQ\nIF FOOD BABIES WERE REAL\nhttps://youtu.be/joMRNv0SlYE\nTHIS COULD BE YOU\nhttps://youtu.be/U9v_bUMqFHg\nFIRST DATE\nhttps://youtu.be/IydaRQClUBY\n\n#gift #christmas #twins",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ni-g7qMMe5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ni-g7qMMe5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ni-g7qMMe5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ni-g7qMMe5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ni-g7qMMe5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "merrelltwins",
+                "tags": [
+                    "Merrell Twins",
+                    "Twins",
+                    "Merrell",
+                    "Veronica Merrell",
+                    "Vanessa Merrell",
+                    "Twin",
+                    "Comedy",
+                    "Family Friendly",
+                    "christmas",
+                    "2023",
+                    "gift",
+                    "gifts swap",
+                    "twin swap",
+                    "twins swap",
+                    "gift exchange"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Twins Swap Christmas Gifts - Merrell Twins",
+                    "description": "Watch see what we got each other for Christmas this year! \nNEW VIDEOS EVERY TUESDAY!!!\nSUBSCRIBE TO OUR CHANNEL ▶ http://bit.ly/2dSP9Fg \nOUR LIVE CHANNEL ▶ https://www.youtube.com/merrelltwinslive\n\nFollow Us on Twitter & Instagram: \nINSTAGRAM:▶ http://instagram.com/MerrellTwins\nINSTAGRAM: ▶http://instagram.com/vanessamerrell\nINSTAGRAM:▶http://instagram.com/veronicamerrell\nTWITTER: ▶https://twitter.com/MerrellTwins\nTWITTER: ▶https://twitter.com/VanessaMerrell\nTWITTER: ▶https://twitter.com/veronicamerrell\nwww.merrelltwins.com\n\nOUR OTHER VIDEOS\nBIRTHDAY GIFT SWAP 2023\nhttps://youtu.be/7o4rkBGZ3EI\nOUR 25th BIRTHDAY\nhttps://youtu.be/zLrPcYSPTas\nBIRTHDAY GIFT SWAP\nhttps://youtu.be/z_LdKL0drkA\nTWIN SWAP DRIVE THRU CHALLENGE\nhttps://youtu.be/nhhrxATx7aA\n2 SETS OF IDENTICAL TWINS DRIVE THRU PRANK\nhttps://youtu.be/p15SVRulr58\nTHE THIRD WHEEL\nhttps://youtu.be/uHYI42E8TKY\nTHAT ONE FRIEND\nhttps://youtu.be/aeOpNraDKy8\nMerrell Twins Exposed ep1\nhttps://youtu.be/mWXurqWRA74\n2 Sets of Twins Drive Thru Prank\nhttps://youtu.be/p15SVRulr58\nFans Write our Video\nhttps://youtu.be/WI0LYRZErjU\nThe Break Up\nhttps://youtu.be/MyS8AjVj9FQ\nIF FOOD BABIES WERE REAL\nhttps://youtu.be/joMRNv0SlYE\nTHIS COULD BE YOU\nhttps://youtu.be/U9v_bUMqFHg\nFIRST DATE\nhttps://youtu.be/IydaRQClUBY\n\n#gift #christmas #twins"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ru29P33ZpqLys_FkSSHmH3pvsjQ",
+            "id": "WwsvQ_6KeBw",
+            "snippet": {
+                "publishedAt": "2023-12-19T14:20:06Z",
+                "channelId": "UCB1t-8MBhxyDVabeUcTj0Zw",
+                "title": "Iceland Eruption Continues with Diminished Lava: Geologist Discusses Present and Future",
+                "description": "Geology professor Shawn Willsey provides a Dec 19, 2023 update on the ongoing eruption north of Grindavik, Iceland. An overview of the eruption, the latest data, and possible scenarios moving forward are outlined. \n\nLink to 2021 eruption with sound: https://www.youtube.com/watch?v=m3okcIdkLjk \n\nSupport these educational videos!  Your generous support allows me to create more educational geology videos.  Send support via: \n\nPayPal: https://www.paypal.com/donate/?hosted_button_id=EWUSLG3GBS5W8\nBuy Me: https://www.buymeacoffee.com/shawnwillsey\nVenmo: @shawn-willsey\nor click on the \"Thanks\" button above.\n\nor a good ol' fashioned check to:\nShawn Willsey\nCollege of Southern Idaho\n315 Falls Avenue\nTwin Falls, ID 83303",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WwsvQ_6KeBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WwsvQ_6KeBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WwsvQ_6KeBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WwsvQ_6KeBw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WwsvQ_6KeBw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Shawn Willsey",
+                "tags": [
+                    "shawn willsey",
+                    "grindavik",
+                    "iceland",
+                    "iceland eruption",
+                    "iceland 2023",
+                    "iceland volcano",
+                    "iceland lava",
+                    "reykjanes"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Iceland Eruption Continues with Diminished Lava: Geologist Discusses Present and Future",
+                    "description": "Geology professor Shawn Willsey provides a Dec 19, 2023 update on the ongoing eruption north of Grindavik, Iceland. An overview of the eruption, the latest data, and possible scenarios moving forward are outlined. \n\nLink to 2021 eruption with sound: https://www.youtube.com/watch?v=m3okcIdkLjk \n\nSupport these educational videos!  Your generous support allows me to create more educational geology videos.  Send support via: \n\nPayPal: https://www.paypal.com/donate/?hosted_button_id=EWUSLG3GBS5W8\nBuy Me: https://www.buymeacoffee.com/shawnwillsey\nVenmo: @shawn-willsey\nor click on the \"Thanks\" button above.\n\nor a good ol' fashioned check to:\nShawn Willsey\nCollege of Southern Idaho\n315 Falls Avenue\nTwin Falls, ID 83303"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3TOIgpx5BuBHHAdi1-X4Zlfm-mk",
+            "id": "o1EEvbQXe6Y",
+            "snippet": {
+                "publishedAt": "2023-12-19T04:00:17Z",
+                "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+                "title": "Character Demo - \"Navia: Unofficial Operation\" | Genshin Impact",
+                "description": "Although the Spina di Rosula operates efficiently, the results achieved are often proportional to the ruckus caused.\nOccasionally, when the scene gets out of control, a Melusine officer would hurriedly step in to intervene by stating \"Now, now, everyone, please, don't panic. They're just filming the latest crime movie!\"\n\nDownload FREE: https://hoyo.link/d0vPBBAd\n \n#GenshinImpact #HoYoverse #CharacterDemo #Navia #UnofficialOperation\n\n↓ Follow us for the latest news ↓\nHoYoLAB: https://hoyo.link/34115CA6\nOfficial Website: https://hoyo.link/b7SCBOAd\nOfficial Community: https://hoyo.link/52uYBBAd\nFacebook: https://hoyo.link/77SCB0Ad\nTwitter: https://hoyo.link/7bSCBxAd\nTwitch: https://hoyo.link/4bSCBFAd\nInstagram: https://hoyo.link/a6SCBEAd\nReddit: https://hoyo.link/c1SCBIAd",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o1EEvbQXe6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o1EEvbQXe6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o1EEvbQXe6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o1EEvbQXe6Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o1EEvbQXe6Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Genshin Impact",
+                "tags": [
+                    "Amber",
+                    "amber vtuber",
+                    "genshi",
+                    "genshi game",
+                    "genshi impact",
+                    "genshi video",
+                    "genshin",
+                    "genshin game",
+                    "genshin impact",
+                    "genshin impact 2020",
+                    "genshin impact game",
+                    "genshin impact good",
+                    "genshin impact graphics",
+                    "genshin impact introduction",
+                    "genshin impact manga",
+                    "genshin impact wiki",
+                    "geshin",
+                    "geshin game",
+                    "Teyvat",
+                    "yuanshen game",
+                    "miHoYo China",
+                    "miHoYo Japan",
+                    "adventure story",
+                    "open world game",
+                    "anime style",
+                    "MMORPG",
+                    "anime games",
+                    "mobile game",
+                    "MMO PlayStation",
+                    "yt:cc=on"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Character Demo - \"Navia: Unofficial Operation\" | Genshin Impact",
+                    "description": "Although the Spina di Rosula operates efficiently, the results achieved are often proportional to the ruckus caused.\nOccasionally, when the scene gets out of control, a Melusine officer would hurriedly step in to intervene by stating \"Now, now, everyone, please, don't panic. They're just filming the latest crime movie!\"\n\nDownload FREE: https://hoyo.link/d0vPBBAd\n \n#GenshinImpact #HoYoverse #CharacterDemo #Navia #UnofficialOperation\n\n↓ Follow us for the latest news ↓\nHoYoLAB: https://hoyo.link/34115CA6\nOfficial Website: https://hoyo.link/b7SCBOAd\nOfficial Community: https://hoyo.link/52uYBBAd\nFacebook: https://hoyo.link/77SCB0Ad\nTwitter: https://hoyo.link/7bSCBxAd\nTwitch: https://hoyo.link/4bSCBFAd\nInstagram: https://hoyo.link/a6SCBEAd\nReddit: https://hoyo.link/c1SCBIAd"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "D0JGh9YZ6Q-8YrrLoPuPkO7__Ag",
+            "id": "Oqvly3MvlXA",
+            "snippet": {
+                "publishedAt": "2023-12-19T05:37:20Z",
+                "channelId": "UCXRLoewrwy4_10PuoMoUBug",
+                "title": "HanuMan Official Trailer - Telugu | Prasanth Varma | Teja Sajja | Primeshow Entertainment",
+                "description": "Watch the highly anticipated #HanuManTrailer Here! \n\nGet INR200 off on your #HanuMan tickets only on Bookmyshow!\n- https://in.bookmyshow.com/movie-voucher/BSTR/2001432\n\nHanuMan - The First Film from PVCU is an upcoming Pan Indian Super Hero movie directed by Prasanth Varma starring Teja Sajja , Amritha Aiyer in the lead roles. Produced by Niranjan Reddy under PrimeShow Entertainment banner. Worldwide Grand Release for Sankranthi on January 12th,2024.\n\nWritten & Directed by #PrasanthVarma\nStarring Teja Sajja , Amritha Aiyer , Varalakshmi Sarath Kumar, Vinay Rai , Raj Deepak Shetty, Vennela Kishore, Getup Srinu, Satya etc.,\nProduced by K. Niranjan Reddy\nBanner: @PrimeShowEntertainment  \nPresents: Smt. Chaitanya\nDOP: Shivendra\nScreenplay : Scriptsville\nBackground Score: GowraHari\nMusic: GowraHari, Anudeep Dev, Krishna Saurabh\nProduction Designer: Sri Nagendra Tangala\nEditor: Saibabu Talari\nExecutive Producer: Asrin Reddy\nLine Producer: Venkat Kumar Jetty\nDolby Atmos Mixing: Eskala Radha Krishna. D.F.tech\nDi : Annapurna Studios\nStills: Varahala Murthy\nPublicity Designs: Ananth Kancherla\nCostumes: Lanka Santhoshi\nPRO: Vamsi Shekar \nMarketing : Manoj Valluri\nDigital Agency: Haashtag Media\nMusic on Tips Industries Ltd. @tipsofficial @tipstelugu @tipstamil @tipskannada @tipsmalayalamofficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oqvly3MvlXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oqvly3MvlXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oqvly3MvlXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Oqvly3MvlXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Oqvly3MvlXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PrimeShow Entertainment",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "HanuMan Official Trailer - Telugu | Prasanth Varma | Teja Sajja | Primeshow Entertainment",
+                    "description": "Watch the highly anticipated #HanuManTrailer Here! \n\nGet INR200 off on your #HanuMan tickets only on Bookmyshow!\n- https://in.bookmyshow.com/movie-voucher/BSTR/2001432\n\nHanuMan - The First Film from PVCU is an upcoming Pan Indian Super Hero movie directed by Prasanth Varma starring Teja Sajja , Amritha Aiyer in the lead roles. Produced by Niranjan Reddy under PrimeShow Entertainment banner. Worldwide Grand Release for Sankranthi on January 12th,2024.\n\nWritten & Directed by #PrasanthVarma\nStarring Teja Sajja , Amritha Aiyer , Varalakshmi Sarath Kumar, Vinay Rai , Raj Deepak Shetty, Vennela Kishore, Getup Srinu, Satya etc.,\nProduced by K. Niranjan Reddy\nBanner: @PrimeShowEntertainment  \nPresents: Smt. Chaitanya\nDOP: Shivendra\nScreenplay : Scriptsville\nBackground Score: GowraHari\nMusic: GowraHari, Anudeep Dev, Krishna Saurabh\nProduction Designer: Sri Nagendra Tangala\nEditor: Saibabu Talari\nExecutive Producer: Asrin Reddy\nLine Producer: Venkat Kumar Jetty\nDolby Atmos Mixing: Eskala Radha Krishna. D.F.tech\nDi : Annapurna Studios\nStills: Varahala Murthy\nPublicity Designs: Ananth Kancherla\nCostumes: Lanka Santhoshi\nPRO: Vamsi Shekar \nMarketing : Manoj Valluri\nDigital Agency: Haashtag Media\nMusic on Tips Industries Ltd. @tipsofficial @tipstelugu @tipstamil @tipskannada @tipsmalayalamofficial"
+                },
+                "defaultAudioLanguage": "te"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0w0AiadjV1AfSv6l9JCfYlTd9Oc",
+            "id": "9RhWXPcKBI8",
+            "snippet": {
+                "publishedAt": "2023-12-16T17:00:01Z",
+                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+                "title": "Survive 100 Days Trapped, Win $500,000",
+                "description": "This video got crazier the longer we kept filming lol \nDon’t miss your chance to get on MrBeast’s gift list! Submit your wish in the Shop App: https://go.shop.app/gift\n\nMusic Provided by https://www.extrememusic.com\n\nNew Merch - https://mrbeast.store\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9RhWXPcKBI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9RhWXPcKBI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9RhWXPcKBI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9RhWXPcKBI8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9RhWXPcKBI8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrBeast",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Survive 100 Days Trapped, Win $500,000",
+                    "description": "This video got crazier the longer we kept filming lol \nDon’t miss your chance to get on MrBeast’s gift list! Submit your wish in the Shop App: https://go.shop.app/gift\n\nMusic Provided by https://www.extrememusic.com\n\nNew Merch - https://mrbeast.store\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
